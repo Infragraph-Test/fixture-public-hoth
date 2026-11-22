@@ -1,0 +1,3 @@
+Repository: fixture-public-hoth
+Branch: feature/alpha
+Revision: 1
